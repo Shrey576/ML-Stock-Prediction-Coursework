@@ -2,7 +2,8 @@
 Developed a machine learning project using LSTM-CNN models to predict stock values of the S&amp;P500 using an open-source dataset. The model was compared with Random Forest which was used as a comparable. ARIMA was also used a simple benchmark to gage both model performances against.
 
 - Got 80%
-
+- Run Python notebook in Jupyter notebook.
+  
 # 📈 Stock Price Prediction with Random Forest, CNN-LSTM, and Naive Benchmark
 
 This project demonstrates the use of machine learning and deep learning models to predict stock prices using historical data. It compares the performance of three approaches:
